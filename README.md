@@ -37,8 +37,6 @@ This is a Python implementation of the Pomodoro Timer, a productivity tool based
    ```bash
    python main.py
 
-
-
 Notes:
 
 - The default time intervals can be modified in the main.py file by changing the values of WORK_MIN, SHORT_BREAK_MIN, and LONG_BREAK_MIN.
